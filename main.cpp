@@ -1,8 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 main()
 {
-   std::cout << "Kevin gutierrez" << std::endl;
-   std::cout << "Comisión: K1023  ";
+   cout << "Kevin gutierrez" << endl;
    return 0;
 }
